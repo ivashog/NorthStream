@@ -1,0 +1,1 @@
+var json_LNG_6 = {"type":"FeatureCollection","name":"LNG_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Source":"LNG - сума усіх поставок зрідженого природного газу","Latitude":45.047006,"Longitude":-22.480312,"Value":60.5,"Name":"LNG"},"geometry":{"type":"Point","coordinates":[-22.480312,45.047006]}}]}
