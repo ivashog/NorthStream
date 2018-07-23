@@ -1,0 +1,19 @@
+{
+  "name": "northstream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivashog/NorthStream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivashog/NorthStream/issues"
+  },
+  "homepage": "https://github.com/ivashog/NorthStream#readme"
+}
