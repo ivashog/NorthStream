@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/ivashog/NorthStream/issues"
   },
-  "homepage": "https://github.com/ivashog/NorthStream#readme"
+  "homepage": "https://github.com/ivashog/NorthStream#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
